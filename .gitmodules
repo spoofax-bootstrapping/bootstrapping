@@ -1,0 +1,21 @@
+[submodule "ts"]
+	path = ts
+	url = https://github.com/spoofax-bootstrapping/ts.git
+[submodule "stratego"]
+	path = stratego
+	url = https://github.com/spoofax-bootstrapping/stratego.git
+[submodule "sdf"]
+	path = sdf
+	url = https://github.com/spoofax-bootstrapping/sdf.git
+[submodule "runtime-libraries"]
+	path = runtime-libraries
+	url = https://github.com/spoofax-bootstrapping/runtime-libraries.git
+[submodule "nabl"]
+	path = nabl
+	url = https://github.com/spoofax-bootstrapping/nabl.git
+[submodule "esv"]
+	path = esv
+	url = https://github.com/spoofax-bootstrapping/esv.git
+[submodule "dynsem"]
+	path = dynsem
+	url = https://github.com/spoofax-bootstrapping/dynsem.git
